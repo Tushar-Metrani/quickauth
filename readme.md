@@ -70,10 +70,14 @@ QuickAuth is a simple and secure user authentication system built using PHP. It 
 
 3. Configure database(if neccessary):
 
-    If your environment requires custom settings, update the database connection in _partials/db_connect.php with your own credentials:        
+    If your environment requires custom settings, update the database connection in _partials/db_connect.php with your own credentials:
+            
         $host = "localhost";
+
         $username = "";   // Enter your MySQL username
+
         $password = "";   // Enter your MySQL password
+
         $db_name = "";    // Enter your database name
 
     ⚠️ Make sure the database exists and the credentials are correct.
