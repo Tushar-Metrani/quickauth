@@ -1,0 +1,28 @@
+
+body{
+    background-image: url(img/bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100dvh;
+}
+
+.alert{
+    position: relative;
+}
+
+.error{
+    color: red;
+    font-size: 12px;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+#msg{
+    display: none;
+}
+
+#edit-container{
+    display: none;
+}
