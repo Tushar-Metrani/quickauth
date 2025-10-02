@@ -1,8 +1,10 @@
-# QuickAuth 
+# 🔐 QuickAuth 
 
 ## - An simple Authentication System using PHP
 
 QuickAuth is a simple and secure user authentication system built using PHP. It provides essential features such as user registration, login, profile management, and account deletion. Designed with responsiveness in mind, it works well on all device sizes.
+
+---
 
 ## ✨ Features
 
@@ -20,6 +22,7 @@ QuickAuth is a simple and secure user authentication system built using PHP. It 
 
 - ✅ Client-side form validation with JavaScript 
 
+---
 
 ## 🛠️ Technologies Used
 
@@ -33,6 +36,7 @@ QuickAuth is a simple and secure user authentication system built using PHP. It 
 
 - HTML/CSS – Structure and styling
 
+---
 
 ## 🔒 Security Overview
 
@@ -45,6 +49,7 @@ QuickAuth is a simple and secure user authentication system built using PHP. It 
 
 - Session Handling: User sessions are managed securely using PHP's built-in session management.
 
+---
 
 ## ⚙️ Setup Instructions
 
@@ -89,11 +94,26 @@ QuickAuth is a simple and secure user authentication system built using PHP. It 
 
     Navigate to http://localhost/quickauth/.
 
+---
 
 ## 📸 Screenshots
 
-    will be uploaded soon!
+### Register Page
 
+![Register Page](img/screenshots/RegisterPage.png)
 
+### Wrong Password Error (Login)
+
+![Login Page](img/screenshots/errormsg.png)
+
+### Dashboard Page
+
+![Dashboard Page](img/screenshots/dashboard.png)
+
+### Edit Profile
+
+![Edit Profile](img/screenshots/EditProfile.png)
+
+---
 
 
