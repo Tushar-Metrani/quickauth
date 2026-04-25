@@ -1,6 +1,6 @@
 
 body{
-    background-image: url(img/bg.jpg);
+    background: linear-gradient(135deg, #2e2e2e, #242424, #1c1c1c);
     background-repeat: no-repeat;
     background-position: center;
     height: 100dvh;
